@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joyeuse KABERA
 - 👀 I’m interested in Software development and Machine learning
-- 🌱 I’m learning Master of Science in Information Technology
+- 🌱 I’m learning Master's of Science in Information Technology
 - 💞️ I’m looking to collaborate on Software development and Machine learning project
 - 📫 How to reach me via email joyabera@gmail.com
                      and phone call +250788839507    
